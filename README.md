@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Clone Youtube 2.0
 
 This project is a study of how to use the RapidAPI platform to make a project similar to Youtube. He can view youtube videos, browse them, search for them and watch channels.
 
