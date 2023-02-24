@@ -2,6 +2,7 @@
 
 This project is a study of how to use the RapidAPI platform to make a project similar to Youtube. He can view youtube videos, browse them, search for them and watch channels.
 
+The representation of project is runing in [Click me](https://studying-project-youtube.vercel.app/)
 ## Image from project
 
 ![Init page](https://i.imgur.com/XwyuQxC.png)
